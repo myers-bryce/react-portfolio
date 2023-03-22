@@ -1,5 +1,5 @@
 import AboutImage from "../../assets/about2.jpg";
-import CV from "../../assets/Bryce-Myers-Resume-Update.pdf";
+import CV from "../../assets/Bryce-Myers-Resume-2.0.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/Card";
